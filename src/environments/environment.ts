@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  BASE_URL_DIGITALIZACION: 'http://localhost:8080/app',
+  BASE_URL_DIGITALIZACION: 'https://ms-redes.azurewebsites.net/app',
 };
 
 /*
