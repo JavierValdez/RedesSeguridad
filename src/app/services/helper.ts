@@ -1,2 +1,2 @@
-let baserUrl = 'http://localhost:8080/app'
+let baserUrl = 'https://ms-redes.azurewebsites.net/app'
 export default baserUrl;
